@@ -5,7 +5,11 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+
+    std::cout << "Hello Visual Studio!\n";
+
+    std::cout << "PillRequest bramch changed\n";
+
 }
 
 // 執行程式: Ctrl + F5 或 [偵錯] > [啟動但不偵錯] 功能表
