@@ -9,7 +9,7 @@ int main()
 
     std::cout << "Hello Visual Studio!\n";
 
-    std::cout << "GitHub Clone changed\n";
+    std::cout << "Clone changed\n";
 
 }
 
